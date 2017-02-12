@@ -2,5 +2,8 @@ package drawMyName;
 
 public class Letter {
 
-		//this is a letter
+		private char[] grid = new char[8][6];
+		
+		
+		
 }
